@@ -14,7 +14,7 @@
 ###
 
 <div align="left">
-  <p><I>Languages working on<I></p>
+  <p>~<I>Languages & Tools<I>~</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo"  />
@@ -27,7 +27,7 @@
   <img width="12" />
   <br>
 
-  <p>Database</p>
+  <p>~Database~</p>
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
 </div>
 
