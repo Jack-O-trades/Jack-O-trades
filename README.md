@@ -21,7 +21,7 @@
     <td>
       <img src="https://img.shields.io/badge/💬_About_Me-282a36?style=for-the-badge" alt="About Me" /><br>
       <samp>
-        🚀 <b>Omm Prakash Rout</b> is a passionate student & aspiring web developer.<br>
+        🚀 <b>Ello Ello Omm Prakash here !!</b> a passionate student & aspiring web developer.<br>
         ☁️ Cloud Enthusiast with mastery over Render, Vercel, Railway & Docker.<br>
         🛠️ Full-stack tinkerer — Django, React, Node.js, and beyond.<br>
         🗄️ Database wrangler — MongoDB, PostgreSQL, MySQL, Firebase, Supabase.<br>
