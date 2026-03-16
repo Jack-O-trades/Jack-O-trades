@@ -16,7 +16,7 @@
 <table align="center">
   <tr>
     <td align="center" width="200">
-      <img src="pics/pikachucookie.gif" width="120" alt="Pikachu" />
+      <img src="https://media.tenor.com/fSszcmN2k60AAAAi/pikachu-eating.gif" width="120" alt="Pikachu" />
     </td>
     <td>
       <img src="https://img.shields.io/badge/💬_About_Me-282a36?style=for-the-badge" alt="About Me" /><br>
