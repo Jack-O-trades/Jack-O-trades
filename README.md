@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Welcome%20to%20My%20World!&fontSize=70&fontAlignY=35&desc=I'm%20Omm%20Prakash%20Rout,%20an%20Aspiring%20Web%20Developer&descAlignY=55&descAlign=50" alt="header banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E96443,50:904E95,100:2E1437&height=250&section=header&text=Welcome%20to%20My%20World!&fontSize=70&fontAlignY=35&desc=I'm%20Omm%20Prakash%20Rout,%20an%20Aspiring%20Web%20Developer&descAlignY=55&descAlign=50&fontColor=FFFFFF" alt="header banner" width="100%" />
 </div>
 
 <!-- Typing Greeting -->
@@ -9,6 +9,27 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Passionate+Student;Aspiring+Web+Developer;Cloud+Enthusiast;Always+Learning" alt="Typing SVG" />
   </a>
 </div>
+
+<br>
+
+<!-- Pokemon Speech Bubble -->
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <img src="https://raw.githubusercontent.com/Jack-O-trades/Jack-O-trades/main/pics/pikachucookie.gif" width="120" alt="Pikachu" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/💬_About_Me-282a36?style=for-the-badge" alt="About Me" /><br>
+      <samp>
+        🚀 <b>Omm Prakash Rout</b> is a passionate student & aspiring web developer.<br>
+        ☁️ Cloud Enthusiast with mastery over Render, Vercel, Railway & Docker.<br>
+        🛠️ Full-stack tinkerer — Django, React, Node.js, and beyond.<br>
+        🗄️ Database wrangler — MongoDB, PostgreSQL, MySQL, Firebase, Supabase.<br>
+        🎯 Always shipping, always learning.
+      </samp>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -68,7 +89,3 @@
   <img src="https://raw.githubusercontent.com/Jack-O-trades/Jack-O-trades/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
 </div>
 
-<div align="right">
-  <!-- Auto-playing Pikachu GIF -->
-  <img src="https://media.tenor.com/fSszcmN2k60AAAAi/pikachu-eating.gif" width="100" alt="Pikachu Eating" />
-</div>
