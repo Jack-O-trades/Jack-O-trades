@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E96443,50:904E95,100:2E1437&height=250&section=header&text=Welcome%20to%20My%20World!&fontSize=70&fontAlignY=35&desc=I'm%20Omm%20Prakash%20Rout,%20an%20Aspiring%20Web%20Developer&descAlignY=55&descAlign=50&fontColor=FFFFFF" alt="header banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A1C4FD,100:C2E9FB&height=250&section=header&text=Welcome%20to%20My%20World!&fontSize=70&fontAlignY=35&desc=I'm%20Omm%20Prakash%20Rout,%20an%20Aspiring%20Web%20Developer&descAlignY=55&descAlign=50&fontColor=2D3436" alt="header banner" width="100%" />
 </div>
 
 <!-- Typing Greeting -->
@@ -16,7 +16,7 @@
 <table align="center">
   <tr>
     <td align="center" width="200">
-      <img src="https://raw.githubusercontent.com/Jack-O-trades/Jack-O-trades/main/pics/pikachucookie.gif" width="120" alt="Pikachu" />
+      <img src="https://raw.githubusercontent.com/Jack-O-trades/Jack-O-trades/hub/pics/pikachucookie.gif" width="120" alt="Pikachu" />
     </td>
     <td>
       <img src="https://img.shields.io/badge/💬_About_Me-282a36?style=for-the-badge" alt="About Me" /><br>
@@ -34,8 +34,8 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jack-O-trades&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jack-O-trades&theme=dark&hide_border=false" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jack-O-trades&show_icons=true&theme=nord&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jack-O-trades&theme=nord" height="150" alt="GitHub Streak" />
 </div>
 
 <br>
